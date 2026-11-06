@@ -1,0 +1,6 @@
+source_system,source_record_id,canonical_id,status,match_method,candidate_ids,reason,source_file,run_id
+crm,1001,CAN-001,MAPPED,EXACT_ALIAS,"[""CAN-001""]",,source_records.csv,4f6b8a27-da5a-4f29-b9a1-465fb156ef6f
+billing,2001,CAN-002,MAPPED,EXACT_ALIAS,"[""CAN-002""]",,source_records.csv,4f6b8a27-da5a-4f29-b9a1-465fb156ef6f
+ecommerce,3001,CAN-003,MAPPED,EXACT_ALIAS,"[""CAN-003""]",,source_records.csv,4f6b8a27-da5a-4f29-b9a1-465fb156ef6f
+crm,1002,CAN-004,MAPPED,RULE_BASED,"[""CAN-004""]",,source_records.csv,4f6b8a27-da5a-4f29-b9a1-465fb156ef6f
+billing,2002,CAN-005,MAPPED,RULE_BASED,"[""CAN-005""]",,source_records.csv,4f6b8a27-da5a-4f29-b9a1-465fb156ef6f

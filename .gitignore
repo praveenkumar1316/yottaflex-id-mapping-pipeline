@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+outputs/*.db
+outputs/*.db-*
+outputs/*.csv
+outputs/*.json
+data/generated/
+.env

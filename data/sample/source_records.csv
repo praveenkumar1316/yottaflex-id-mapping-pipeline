@@ -1,0 +1,10 @@
+source_system,source_record_id,source_identifier,name,email,phone,source_updated_at
+crm,1001,CRM-001,Aarav Sharma,aarav@example.test,9000000001,2026-11-01T10:00:00Z
+billing,2001,BILL-002,Diya Reddy,diya@example.test,9000000002,2026-11-01T10:05:00Z
+ecommerce,3001,ECOM-003,Arjun Rao,arjun@example.test,9000000003,2026-11-01T10:10:00Z
+crm,1002,NEW-1002,Meera Iyer,meera@example.test,9000000004,2026-11-01T10:15:00Z
+billing,2002,NEW-2002,Kabir Khan,kabir@example.test,9000000005,2026-11-01T10:20:00Z
+crm,1003,NO-MATCH,Unknown Person,unknown@example.test,,2026-11-01T10:25:00Z
+crm,1004,DUP-777,Ambiguous Alias,aarav@example.test,9000000001,2026-11-01T10:30:00Z
+crm,1005,,Missing Identifier,missing@example.test,9000000006,2026-11-01T10:35:00Z
+crm,1001,CRM-001,Duplicate Record,aarav@example.test,9000000001,2026-11-01T10:40:00Z

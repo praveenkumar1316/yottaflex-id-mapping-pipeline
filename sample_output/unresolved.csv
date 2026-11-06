@@ -1,0 +1,3 @@
+source_system,source_record_id,canonical_id,status,match_method,candidate_ids,reason,source_file,run_id
+crm,1003,,UNRESOLVED,NONE,[],No exact alias or matching email/phone evidence,source_records.csv,4f6b8a27-da5a-4f29-b9a1-465fb156ef6f
+crm,1004,,CONFLICT,EXACT_ALIAS,"[""CAN-001"", ""CAN-002""]",Alias key maps to multiple canonical IDs,source_records.csv,4f6b8a27-da5a-4f29-b9a1-465fb156ef6f

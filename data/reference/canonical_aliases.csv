@@ -1,0 +1,8 @@
+source_system,source_identifier,canonical_id
+crm,CRM-001,CAN-001
+billing,BILL-002,CAN-002
+ecommerce,ECOM-003,CAN-003
+crm,CRM-004,CAN-004
+billing,BILL-005,CAN-005
+crm,DUP-777,CAN-001
+crm,DUP 777,CAN-002
